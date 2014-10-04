@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "HackMIT": {
+            "applicationId": "xUHTtJy76NkkwcRqbDNxIcHtxHzjuSGdJr9PoR04", 
+            "masterKey": "i0WksdM5JTBzIxeyFcs8afonXeJzputzg0Lq6VDU"
+        }, 
+        "_default": {
+            "link": "HackMIT"
+        }
+    }
+}
