@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "JacquiTest": {
+            "applicationId": "Bd91Uk5Obh26kExrKbqPGWxXkijNJOFMm9KFlIBV", 
+            "masterKey": "LbZ8ACgCUcJaZ65dSzXLyEcQabyjiG8MvY0dc4Sw"
+        }, 
+        "_default": {
+            "link": "JacquiTest"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
